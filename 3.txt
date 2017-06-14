@@ -1,0 +1,5 @@
+This is the third example text file for Git Home Task.
+It was created in develop branch.
+
+Now it is in:
+State 1
