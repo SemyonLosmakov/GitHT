@@ -1,4 +1,4 @@
 This is the second example text file for Git Home Task.
 
 Now it is in:
-State 3
+State 4
